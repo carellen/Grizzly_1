@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ListOfGoods>
+    <materialGood id="3">
+        <deliveryPrice>1.11</deliveryPrice>
+        <productPrice>12.22</productPrice>
+    </materialGood>
+    <materialGood id="4">
+        <deliveryPrice>0.43</deliveryPrice>
+        <productPrice>8.13</productPrice>
+    </materialGood>
+    <materialGood id="5">
+        <deliveryPrice>2.57</deliveryPrice>
+        <productPrice>77.55</productPrice>
+    </materialGood>
+    <materialGood id="6">
+        <deliveryPrice>3.34</deliveryPrice>
+        <productPrice>52.89</productPrice>
+    </materialGood>
+    <materialGood id="7">
+        <deliveryPrice>0.3</deliveryPrice>
+        <productPrice>2.18</productPrice>
+    </materialGood>
+    <electronicGood id="8">
+        <deliveryPrice>0.0</deliveryPrice>
+        <productPrice>18.33</productPrice>
+    </electronicGood>
+    <electronicGood id="9">
+        <deliveryPrice>0.0</deliveryPrice>
+        <productPrice>14.21</productPrice>
+    </electronicGood>
+    <electronicGood id="10">
+        <deliveryPrice>0.0</deliveryPrice>
+        <productPrice>24.24</productPrice>
+    </electronicGood>
+    <electronicGood id="11">
+        <deliveryPrice>0.0</deliveryPrice>
+        <productPrice>60.91</productPrice>
+    </electronicGood>
+    <electronicGood id="12">
+        <deliveryPrice>0.0</deliveryPrice>
+        <productPrice>22.45</productPrice>
+    </electronicGood>
+</ListOfGoods>
